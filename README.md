@@ -12,6 +12,8 @@ xwWenKai.woff2   --  霞鹜尚智黑
 zyYuanTi.woff2   --  资源圆体(Medium)
 ```
 
-部分字体出处（目前找得到的）：
-阿里巴巴普惠体 https://alibabafont.taobao.com/wow/alibabafont/act/alifont
+------------
+
+部分字体出处（目前找得到的）：  
+阿里巴巴普惠体 https://alibabafont.taobao.com/wow/alibabafont/act/alifont  
 霞鹜系列 https://lxgw.github.io/
